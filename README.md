@@ -1,8 +1,8 @@
-# Hi, I'm Paul Balusi Mageni 👋
+# Hi, I am Paul Mageni 👋
 
 **AI Alignment Engineer & Software Developer** based in Nairobi, Kenya 🇰🇪
 
-I specialize in building reliable AI systems — from evaluating frontier models to engineering production-grade backend software. I've worked with Safaricom PLC to improve M-Pesa's AI-driven customer interfaces using RLHF and red-teaming techniques.
+I build things at the intersection of software engineering and AI — from production code auditors to LLM benchmarking suites. I have worked with Safaricom PLC improving M-Pesa AI systems and spent several years evaluating and improving frontier models at Outlier AI.
 
 ---
 
@@ -11,7 +11,7 @@ I specialize in building reliable AI systems — from evaluating frontier models
 - **AI Alignment & Safety** — RLHF, red-teaming, hallucination mitigation, Chain-of-Thought evaluation
 - **LLM Engineering** — Prompt engineering, LangChain pipelines, agentic workflows, benchmarking
 - **Backend Development** — REST APIs, Python, Java/Spring Boot, SQL
-- **Fintech Domain** — Deep experience with M-Pesa ecosystems and East African consumer tech
+- **Fintech Domain** — Production experience with M-Pesa ecosystems and East African consumer tech
 
 ---
 
@@ -30,41 +30,36 @@ I specialize in building reliable AI systems — from evaluating frontier models
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Hardware/IoT**
-
-![RFID](https://img.shields.io/badge/RFID_Systems-grey?style=flat-square)
-![Embedded](https://img.shields.io/badge/Embedded_Systems-grey?style=flat-square)
-
 ---
 
 ## 🚀 Featured Projects
 
 | Project | Description | Stack |
-|---|---|---|
-| [RFID Attendance System](https://github.com/balusi130/RFID-BACK-END) | Backend API for an RFID-based access control & attendance tracking system | Python / REST API |
-| Automated Code Auditor | LangChain-based tool to review Python scripts for complexity & security; improved PEP 8 compliance by 25% | Python, LangChain |
-| East African LLM Benchmarking Suite | Evaluated linguistic nuance and reasoning of LLMs in localized East African dialect contexts; graded 500+ CoT prompts | Python, NLP |
+|---------|-------------|-------|
+| [langchain-code-auditor](https://github.com/balusi130/langchain-code-auditor) | Automated Python code review tool — catches complexity issues, security risks, and PEP 8 violations using LangChain agents | Python, LangChain, OpenAI |
+| [llm-benchmark-east-africa](https://github.com/balusi130/llm-benchmark-east-africa) | Benchmarking suite for GPT-4o and Claude across 500+ Swahili, code-switched, and fintech reasoning prompts | Python, OpenAI API, Anthropic API |
+| [RFID-BACK-END](https://github.com/balusi130/RFID-BACK-END) | Backend REST API for an RFID-based access control and attendance tracking system | Java, Spring Boot, MySQL |
 
 ---
 
-## 💼 Experience Highlights
+## 💼 Experience
 
-**Safaricom PLC** *(AI Alignment & Technical SME, 2024–2025)*
-- Applied RLHF to improve M-Pesa AI customer interface conversational accuracy
+**Safaricom PLC** — AI Alignment & Technical SME (2024–2025)
+- Applied RLHF to improve conversational accuracy of M-Pesa AI customer interfaces
 - Red-teamed GPT-4o and Claude 3.5 for logic failures in financial reasoning
-- Built "Gold Standard" CoT datasets achieving 99% factual accuracy on fintech queries
+- Built Chain-of-Thought datasets achieving 99% factual accuracy on fintech queries
 - Reduced model errors by 15% through rigorous code and output auditing
 
-**Handshake AI & Outlier** *(AI Content Evaluator, 2021–2024)*
-- Evaluated 2,000+ AI responses across STEM and programming domains
-- Increased data processing efficiency by 30% via Human-in-the-Loop workflow design
+**Outlier AI** — AI Content Evaluator & Data Auditor (2021–2024)
+- Evaluated 2,000+ AI-generated responses across STEM and programming domains
+- Increased data processing efficiency by 30% through Human-in-the-Loop workflow design
 
 ---
 
 ## 📄 Publications
 
-- **"The Future of Agentic AI in Emerging Markets"** — Safaricom Engineering Blog, 2026
-- **"Mitigating Logic Hallucinations in LLM-Generated Python Code"** — Technical Whitepaper, 2025
+- **The Future of Agentic AI in Emerging Markets** — Safaricom Engineering Blog, 2026
+- **Mitigating Logic Hallucinations in LLM-Generated Python Code** — Technical Whitepaper, 2025
 
 ---
 
@@ -76,11 +71,11 @@ I specialize in building reliable AI systems — from evaluating frontier models
 
 ---
 
-## 📫 Let's Connect
+## 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paul-mageni-b922031a5/)
 [![Email](https://img.shields.io/badge/Email-paul.balusi@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:paul.balusi@gmail.com)
 
 ---
 
-*Currently open to Software Engineering and AI/ML Engineering roles.*
+*Open to Software Engineering and AI/ML Engineering roles.*
