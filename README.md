@@ -10,8 +10,8 @@ I build things at the intersection of software engineering and AI — from produ
 
 - **AI Alignment & Safety** — RLHF, red-teaming, hallucination mitigation, Chain-of-Thought evaluation
 - **LLM Engineering** — Prompt engineering, LangChain pipelines, agentic workflows, benchmarking
-- **Backend Development** — REST APIs, Python, Java/Spring Boot, SQL
-- **Fintech Domain** — Production experience with M-Pesa ecosystems and East African consumer tech
+- **Backend Development** — REST APIs, Python, Java/Spring Boot, SQL, FastAPI
+- **Fintech Domain** — Production experience with M-Pesa and Daraja API integration
 
 ---
 
@@ -28,16 +28,21 @@ I build things at the intersection of software engineering and AI — from produ
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [langchain-code-auditor](https://github.com/balusi130/langchain-code-auditor) | Automated Python code review tool — catches complexity issues, security risks, and PEP 8 violations using LangChain agents | Python, LangChain, OpenAI |
-| [llm-benchmark-east-africa](https://github.com/balusi130/llm-benchmark-east-africa) | Benchmarking suite for GPT-4o and Claude across 500+ Swahili, code-switched, and fintech reasoning prompts | Python, OpenAI API, Anthropic API |
+| [langchain-code-auditor](https://github.com/balusi130/langchain-code-auditor) | Automated Python code review tool — catches complexity issues, security risks, and PEP 8 violations using LangChain agents | Python, LangChain |
+| [llm-benchmark-east-africa](https://github.com/balusi130/llm-benchmark-east-africa) | Benchmarks GPT-4o and Claude across 500+ Swahili, code-switched, and fintech reasoning prompts | Python, OpenAI, Anthropic |
+| [expense-tracker-api](https://github.com/balusi130/expense-tracker-api) | REST API for expense tracking with budget alerts, monthly summaries, and CSV export | Python, FastAPI, PostgreSQL, Docker |
+| [sql-query-optimizer](https://github.com/balusi130/sql-query-optimizer) | CLI tool that analyzes SQL queries and suggests index additions, rewrites, and anti-pattern fixes | Python, sqlglot |
+| [mpesa-daraja-wrapper](https://github.com/balusi130/mpesa-daraja-wrapper) | Clean Python wrapper for the Safaricom Daraja API — STK Push, B2C, C2B, transaction status | Python |
 | [RFID-BACK-END](https://github.com/balusi130/RFID-BACK-END) | Backend REST API for an RFID-based access control and attendance tracking system | Java, Spring Boot, MySQL |
 
 ---
